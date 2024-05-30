@@ -1,6 +1,6 @@
 # API
 fastapi==0.110.2
-uvicorn==0.29.0
+uvicorn==0.30.0
 
 # Model
 alibi-detect==0.12.0
